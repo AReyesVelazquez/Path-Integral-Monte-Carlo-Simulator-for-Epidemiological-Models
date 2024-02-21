@@ -1,2 +1,2 @@
 # Path-Integral-Monte-Carlo-Simulator-for-Epidemiological-Models
-This repository contains a Python program which allows the user to design and simulate their own compartmental epidemiological models
+This repository contains a Python program which allows the user to design and simulate their own compartmental epidemiological models by specifying only the contagion mechanisms and other transitions in the model (e.g. Infected to Recovered). The final user doesn't needs knowledge on Monte Carlo Simulations, the Gillespie Algorithm or Chemical Reaction Network Theory as the data is inputed through a GUI.
